@@ -1,0 +1,32 @@
+.btn-addon i{
+    width: 30px;
+    height: 30px;
+    margin: -6px -12px;
+    margin-right: 10px;
+    line-height: 30px;
+    background-color:rgba(0,0,0,0.1);
+    border-radius: 2px 0 0 2px;
+  }
+  
+  .attachment-img{
+    max-width:200px;
+    max-height:200px;
+  }
+  
+  .dataTables_wrapper .dataTables_paginate .paginate_button{padding:0;margin:0;}
+  
+  .global-message .alert{
+    margin-top:20px;
+  }
+  
+  .mailbox-date, .mailbox-name{width:150px;}
+  .mail-unread .mailbox-subject{font-weight:bold;}
+  .orgchart{background:none;width:100%;overflow:auto;max-height:500px;}
+  .orgchart .node .content{min-height:30px;height:auto;padding-top:5px;padding-bottom:5px;}
+  .jstree{max-height:500px;overflow:auto;}
+  .small-box h3 {
+    white-space: normal !important;
+  }
+  .select2-results__option, .select2-search__field{color:#222;}
+  .select2 .selection{display:block;width:80%;}
+  .dataTables_wrapper{overflow-x:auto;}

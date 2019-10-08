@@ -1,0 +1,277 @@
+body {
+  color: white;
+  background:none transparent;
+}
+
+
+.skin-purple .main-header .navbar {
+    background-color: #000000;
+}
+.skin-purple .main-header .logo:hover {
+    background-color: #000000;
+}
+.skin-purple .left-side, .skin-purple .main-sidebar, .skin-purple .wrapper {
+    background-color: #000000;
+}
+.skin-purple .main-header .logo {
+    background-color: #000000;
+    
+}
+
+.skin-purple .sidebar a {
+    color: #ffffff;
+}
+
+.content-wrapper {
+    background-image: url("https://feltacoin.com/bg-0.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+     background-size: cover; /* Resize the background image to cover the entire container */
+    background-color: #ffffff;
+    
+}
+.main-footer {
+   background-color: #000000;
+   color: #f58220;
+}
+
+.alert-success, .bg-green, .callout.callout-success, .label-success, .modal-success .modal-body {
+    background-color: #000000!important;
+    opacity: 0.7;
+    
+    
+}
+.alert-danger, .alert-error, .bg-red, .callout.callout-danger, .label-danger, .modal-danger .modal-body {
+    background-color: #000000!important;
+    opacity: 0.7;
+}
+
+.h2, .h3, .h4, .h5, .h6, h2, h3, h4, h5, h6, td, a {
+    font-family: 'Source Sans Pro',sans-serif;
+    color: #f58220;
+}
+
+h1, label, p, th  {
+    font-family: 'Source Sans Pro',sans-serif;
+    color: #ffffff;
+}
+
+
+.box {
+    background: #000000;
+    border-color: black;
+    
+}
+
+
+.box-footer {
+
+    background-color: black;
+}
+.box.box-primary {
+    border-top-color: black;
+}
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color: #f58220;
+}
+
+
+@media (max-width: 507px)
+.img2 {
+    width: 30%;
+    
+}
+
+.btn-success {
+    background-color: #f58220;
+    border-color: #f58220;
+    
+}
+
+.btn-success.hover, .btn-success:active, .btn-success:hover {
+    background-color: #f58220;
+    border-color: white;
+}
+
+.btn-primary.hover, .btn-primary:active, .btn-primary:hover {
+    background-color: #f58220;
+}
+.btn-primary {
+    background-color: #f58220;
+    border-color: white;
+}
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+    color: #ffffff;
+}
+table.dataTable tbody tr {
+    background-color: black;
+}
+
+.orgchart .node .title {
+    background-color: #f58220;
+}
+.orgchart .node:hover {
+    background-color: #f58220;
+}
+.jstree-default .jstree-clicked {
+    background: #f58220;
+   
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    background-color: #f58220;
+    border-color: #f58220;
+}
+.form-control {
+    color: white;
+    border-radius: 0;
+    box-shadow: none;
+    border-color: white;
+    background-color: black;
+}
+
+.skin-purple .sidebar-menu>li.header {
+    color: #f58220;
+}
+
+.nav-stacked>li.active>a, .nav-stacked>li.active>a:hover {
+    background: 0 0;
+    color: white;
+    border-top: 0;
+    border-left-color: #f58220;
+}
+
+.nav-stacked>li>a {
+    border-radius: 0;
+    border-top: 0;
+    border-left: 3px solid transparent;
+    color: white;
+}
+
+.skin-purple .main-header li.user-header {
+    background-color: #f58220;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: black;
+    border: 1px solid #ddd;
+}
+
+.nav-tabs-custom {
+    margin-bottom: 20px;
+    background: black;
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    border-radius: 3px;
+}
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: white;
+}
+.nav-tabs-custom>.nav-tabs>li>a:hover {
+    color: white;
+}
+.nav-tabs-custom>.nav-tabs>li>a {
+    color: #888;
+    border-radius: 0;
+}
+.nav-tabs-custom>.nav-tabs>li.active:hover>a, .nav-tabs-custom>.nav-tabs>li.active>a {
+    background-color: black;
+    color: white;
+}
+.nav-tabs-custom>.tab-content {
+    background: black;
+    padding: 10px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: black;
+    opacity: 1;
+}
+
+.alert-info, .bg-aqua, .callout.callout-info, .label-info, .modal-info .modal-body {
+    background-color: #f58220!important;
+}
+
+
+
+.skin-blue .main-header .logo {
+    background-color: black;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue .sidebar-menu>li.active>a {
+    border-left-color: #f58220;
+}
+.skin-blue .main-header .navbar {
+    background-color: black;
+}
+.skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper {
+    background-color: black;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    background-color: black;
+}
+.input-group .input-group-addon {
+    border-radius: 0;
+    border-color: #d2d6de;
+    background-color: black;
+}
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: white;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.skin-blue .main-header li.user-header {
+    background-color: #f58220;
+}
+
+.login-box-body, .register-box-body {
+    background: #2b2b2b;
+    padding: 20px;
+    border-top: 0;
+    color: #666;
+    padding-bottom:50px;
+}
+.login-box, .register-box {
+    padding-top: 50px;
+    width: 360px;
+    margin: 7% auto;
+    background-color: #2b2b2b;
+}
+.login-page, .register-page {
+    height: auto;
+    background: rgba(255,255,255,.0);
+}
+.box.box-primary {
+    border-top-color: #f58220;
+}
+#tzcd {
+  
+  text-align: center;
+  color: #eee;
+  text-shadow: 1px 1px 5px black;
+  padding: 1rem 0;
+  font-size: 6rem;
+  border: 1px solid #000;
+}
+
+#mobileHide { display: inline; }
+
+  /* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 480px){
+     .mobileHide { display: none;}
+  }
